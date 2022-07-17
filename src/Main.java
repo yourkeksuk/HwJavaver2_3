@@ -7,7 +7,7 @@ public class Main {
 
         if (pay < 1000){
             System.out.println("Подарочные рубли предоставляются только при пополнении от 1000р.");
-            System.out.println("Итоговая сумма счета: " + ((start) + (pay)) + " рубля(ей)");
+            System.out.println("Итоговая сумма счета: " + ((start) + (pay)) + "р.");
         }
     }
 }
